@@ -1,4 +1,5 @@
-# user-authorization
+# React ConnectyCube simple user authorization
+
 
 
 #### npm i
